@@ -2,12 +2,6 @@
 
 This repository demonstrates how to integrate Razorpay payment gateway in a Node.js application.
 
-## Prerequisites
-
-- Node.js installed on your machine
-- Razorpay account with API keys
-- Basic understanding of Node.js and Express
-
 ## Setup
 
 1. **Clone the repository**
